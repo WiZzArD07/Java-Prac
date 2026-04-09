@@ -1,0 +1,6 @@
+for auto suggestions
+
+user
+text editor
+suggestions
+inline suggest enabled : off
